@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\bin\Debug\Supre_Heros.exe.config
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\bin\Debug\Supre_Heros.exe
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\bin\Debug\Supre_Heros.pdb
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\obj\Debug\Supre_Heros.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\obj\Debug\Supre_Heros.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\obj\Debug\Supre_Heros.exe
+C:\Users\USER\Desktop\עבודות\Lesson 19 OOP\Lesson_19_OOP\Supre_Heros\obj\Debug\Supre_Heros.pdb
